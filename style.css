@@ -1,0 +1,20 @@
+h1 {
+  color: red;
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+#alert {
+  margin: 20px auto;
+  width: 100px;
+  background-color: #3ec;
+}
