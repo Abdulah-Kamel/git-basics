@@ -17,4 +17,14 @@ p {
   margin: 20px auto;
   width: 100px;
   background-color: #3ec;
+  border: none;
+  color: #000;
+  padding: 10px;
+  border-radius: 8px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
+  &:hover {
+    cursor: pointer;
+    background-color: #2c9;
+    color: #fff;
+  }
 }
